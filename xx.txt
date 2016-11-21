@@ -1,3 +1,10 @@
 hii gopi
+<<<<<<< HEAD
 im gud hw abut u
 hii how r u
+=======
+im fine hw abut u
+hii how r u
+im bad ksaskjfsanfj
+m,dfhdvb
+>>>>>>> feature-11
